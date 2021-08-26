@@ -23,4 +23,4 @@ jobs:
     - name: Build
       run: dotnet build --no-restore
     - name: Test
-      run: dotnet test -f 3.1 --no-build --verbosity normal
+      run: dotnet test -f netcoreapp3.1 --no-build --verbosity normal

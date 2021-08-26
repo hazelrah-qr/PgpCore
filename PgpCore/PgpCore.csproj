@@ -15,7 +15,7 @@
     <FileVersion>5.2.0.0</FileVersion>
     <PackageReleaseNotes>v5.2.0 - Make EncryptionKeys properties Lazy</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <AssemblyOriginatorKeyFile>PgpCoreKey.pfx</AssemblyOriginatorKeyFile>
+    <!-- <AssemblyOriginatorKeyFile>PgpCoreKey.pfx</AssemblyOriginatorKeyFile> -->
     <DelaySign>false</DelaySign>
     <PublishRepositoryUrl>true</PublishRepositoryUrl>
     <IncludeSymbols>true</IncludeSymbols>
